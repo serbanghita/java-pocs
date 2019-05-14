@@ -1,0 +1,10 @@
+[
+  {
+    "name": "userData",
+    "expirationPeriod": 1440
+  },
+  {
+    "name": "refreshToken",
+    "expirationPeriod": 5
+  }
+]
